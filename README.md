@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Abount Me
+This is my first repository for the course Applied Restful APIs.
